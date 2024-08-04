@@ -2,14 +2,14 @@ console.log('Hello World 2');
 
 function refrain() {
 let lyrics2 = "";
-lyrics2 += "Yeah, Glo! Stomp a lil' pussy ho with some shell toes\n"
-lyrics2 += "Yeah, Glo! Slappin' rap bitches and makin' bail, ho\n"
-lyrics2 += "Yeah, Glo! Two-tone Cartier match the nails, ho\n"
-lyrics2 += "Yeah, Glo! No competition, these bitches stale, ho\n"
-lyrics2 += "Yeah, Glo! Cuban on Cuban, my shit in layers, ho\n"
-lyrics2 += "Yeah, Glo! Say they get money, but I can't tell, ho\n"
-lyrics2 += "Yeah, Glo! Keep runnin' circles around these snail hoes\n"
-lyrics2 += "Yeah, Glo! And my shit bumpin' up in the jail, ho (on the gang)\n"
+lyrics2 += "Yeah, Glo! Stomp a lil' pussy ho with some shell toes\n";
+lyrics2 += "Yeah, Glo! Slappin' rap bitches and makin' bail, ho\n";
+lyrics2 += "Yeah, Glo! Two-tone Cartier match the nails, ho\n";
+lyrics2 += "Yeah, Glo! No competition, these bitches stale, ho\n";
+lyrics2 += "Yeah, Glo! Cuban on Cuban, my shit in layers, ho\n";
+lyrics2 += "Yeah, Glo! Say they get money, but I can't tell, ho\n";
+lyrics2 += "Yeah, Glo! Keep runnin' circles around these snail hoes\n";
+lyrics2 += "Yeah, Glo! And my shit bumpin' up in the jail, ho (on the gang)\n";
 
 return lyrics2;
 }
